@@ -1,0 +1,11 @@
+C:\GitHubRepos\Colecciones\Colecciones\bin\Debug\netcoreapp2.1\Colecciones.deps.json
+C:\GitHubRepos\Colecciones\Colecciones\bin\Debug\netcoreapp2.1\Colecciones.runtimeconfig.json
+C:\GitHubRepos\Colecciones\Colecciones\bin\Debug\netcoreapp2.1\Colecciones.runtimeconfig.dev.json
+C:\GitHubRepos\Colecciones\Colecciones\bin\Debug\netcoreapp2.1\Colecciones.dll
+C:\GitHubRepos\Colecciones\Colecciones\bin\Debug\netcoreapp2.1\Colecciones.pdb
+C:\GitHubRepos\Colecciones\Colecciones\obj\Debug\netcoreapp2.1\Colecciones.csprojAssemblyReference.cache
+C:\GitHubRepos\Colecciones\Colecciones\obj\Debug\netcoreapp2.1\Colecciones.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\Colecciones\Colecciones\obj\Debug\netcoreapp2.1\Colecciones.AssemblyInfoInputs.cache
+C:\GitHubRepos\Colecciones\Colecciones\obj\Debug\netcoreapp2.1\Colecciones.AssemblyInfo.cs
+C:\GitHubRepos\Colecciones\Colecciones\obj\Debug\netcoreapp2.1\Colecciones.dll
+C:\GitHubRepos\Colecciones\Colecciones\obj\Debug\netcoreapp2.1\Colecciones.pdb
